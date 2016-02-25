@@ -1,6 +1,8 @@
 // Steele Portfolio
 // @author: Mallory Steele
 // Midterm
+//http://comp1073-midterm.azurewebsites.
+//this file will inject paragraphs into index.html and save contact form inputs into variables
 
 // setup your IIFE (Immediately Invoked Function Expression)
 var travelReport = (function () {
